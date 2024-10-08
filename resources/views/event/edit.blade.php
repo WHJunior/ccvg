@@ -29,7 +29,7 @@
                         </div>
                         <div>
                             <x-input-label id="date" for="date"  :value="__('Data')" />
-                            <x-text-input id="date" name="date" type="date" class="block mt-1 w-full" value="{{$event->date}}" required autofocus autocomplete="date" />
+                            <x-text-input id="date" name="date" type="date" class="block mt-1 w-full" value="{{\Carbon\Carbon::create($event->date)->format('d/m/Y')}}" required autofocus autocomplete="date" />
                             <x-input-error :messages="$errors->get('date')" class="mt-2" />    
                         </div>
                         <div class="flex items-center justify-end mt-4">

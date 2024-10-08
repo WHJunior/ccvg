@@ -93,18 +93,23 @@
                                     <p class="mt-4 text-sm/relaxed">
                                         Quem somos<br>
                                         Somos uma comunidade cristã estabelecida sob princípios bíblicos, buscando ser relevante para a sociedade local.<br>
-                                        - Nosso *exemplo é Cristo* (destaque entre os “*”)<br>
-                                        - Nosso desejo é que *todos sejam salvos* (destaque entre os “*”)<br>
-                                        - Nosso modelo de trabalho é o *voluntariado* (destaque entre os “*”)<br>
+                                        - Nosso <b>exemplo é Cristo</b><br>
+                                        - Nosso desejo é que <b>todos sejam salvos</b><br>
+                                        - Nosso modelo de trabalho é o <b>voluntariado</b><br>
                                         <br>
                                         Encontros<br>
                                         - Cultos de Celebração: domingos, 19h30<br>
                                         - Noite de Oração e Adoração: sextas, 22h00<br>
                                         - Jovens+Adolescentes (GraceNight): sábados (quinzenalmente), 19h30<br>
+                                        - Local: Rua Princesa Isabel, 84, Canoas, Rio do Sul 89164030<br>
                                         <br>
                                         Pequenos Grupos (PG)<br>
                                         Os pequenos grupos são encontros informai que acontecem nas casas, durante a semana. Neles encontramos liberdade para perguntar, opinar e interagir de diversas maneiras, em busca de sabedoria e comunhão.<br>
-                                        Encontre um PG mais próximo de você:<br>
+                                        Encontre um PG mais próximo de você.<br>
+                                        <br>
+                                        Faça sua contribuição<br>
+                                        A forma como se doa é tão importante quanto o que se doa, se for para contribuir, contribua com amor.<br>
+                                        Pix: (47) 9 9999-9999<br>
 
                                     </p>
                                 </div>
